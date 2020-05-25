@@ -1,2 +1,25 @@
-# Hyperblog
-Un blog para aprender Git Y Github
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bienvenido a Hyperblog 2.0</title>
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body> 
+  <div id="conteiner">
+    <div id="cabecera">
+      Hyperblog
+      <span id="tagline">Tu blog de cabecera</span>
+    </div>
+    <div id="post">
+      <h1>Este es el titulo atractivo e interesante del post</h1>
+      <p>Y este es el parrafo de inicio donde vamos a explicar las cosas increibles que se 
+        pueden hacer con ramas</p>
+      <p>Los blogs son kaidewoidwijkfewoijkfewickwoifw
+        ioojewidcwoijewckw,,,,eifeeeeeeeeeeeeeeeeeeeee</p>
+        <p>Suscribete y dale like</p>
+    </div>
+  </div>
+</body>
+</html>
